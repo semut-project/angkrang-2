@@ -1,0 +1,5 @@
+# All files require approval from repository owner
+* @agustinustan
+
+# Protect ownership configuration
+/.github/ @agustinustan
